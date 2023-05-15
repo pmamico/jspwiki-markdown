@@ -7,7 +7,7 @@
 	<groupId>hu.pmamico.jspwiki.plugin</groupId>
 	<artifactId>MarkdownPlugin</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-guidance</version>
+	<version>1.0</version>
 	<name>PlantUmlPlugin</name>
 
 	<dependencies>
